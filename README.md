@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=SuzurikawaChihiro&theme=chalk)](https://github.com/SuzurikawaChihiro)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chihiros&theme=chalk)](https://github.com/chihiros)
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuzurikawaChihiro&count_private=true&show_icons=true)](https://github.com/SuzurikawaChihiro)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuzurikawaChihiro&layout=compact&hide=ruby)](https://github.com/SuzurikawaChihiro)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chihiros&count_private=true&show_icons=true)](https://github.com/chihiros)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chihiros&layout=compact&hide=ruby)](https://github.com/chihiros)
